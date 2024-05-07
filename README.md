@@ -1,5 +1,5 @@
 # EXN0-9 Implementation-of-SVM-For-Spam-Mail-Detection
-## Date : 07-05-2024
+
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
 
